@@ -34,3 +34,9 @@ Interface Segregation Principal:
 - ISP recommends multiple, smaller, cohesive interfaces
 - Interfaces become tightly focused
 - Easier to implement
+
+Dependancy Inversion Principal:
+- High level modules should not depend on low level modules, both should depend on abstractions
+- Clients should not be forced to depend upon interfaces they do not use
+- DIP removes direct dependancies between classes
+- Classes become loosely coupled. making it easier to substitute alternative implementations
