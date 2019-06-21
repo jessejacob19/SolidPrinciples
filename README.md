@@ -23,3 +23,7 @@ Open / Closed Principle:
 - Limits the need to change code once it has been tested and debugged
 - Reduces risks of introducing new bugs
 - Reduced coupling
+
+Liskov Substitution Principal:
+- Use Derived classes without knowing it
+- Subclasses must operate in the same manner as their base class
