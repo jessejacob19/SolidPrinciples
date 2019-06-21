@@ -15,3 +15,11 @@ Single Responsibility Principal:
 - Chance of any one class containing bugs is lower, therefore change is less fragile
 - Classes become smaller and cleaner
 - Simpler to understand and maintain
+
+Open / Closed Principle:
+- Open to Extension
+- Closed for Modification
+- Use interfaces
+- Limits the need to change code once it has been tested and debugged
+- Reduces risks of introducing new bugs
+- Reduced coupling
