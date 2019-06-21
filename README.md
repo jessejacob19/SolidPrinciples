@@ -27,3 +27,10 @@ Open / Closed Principle:
 Liskov Substitution Principal:
 - Use Derived classes without knowing it
 - Subclasses must operate in the same manner as their base class
+
+Interface Segregation Principal:
+- Classes may have interfaces that are not cohesive
+- Clients should not be forced to depend upon interfaces they do not use
+- ISP recommends multiple, smaller, cohesive interfaces
+- Interfaces become tightly focused
+- Easier to implement
